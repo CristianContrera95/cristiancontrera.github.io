@@ -120,12 +120,12 @@ body {
 }
 
 ::selection {
-  background: #fbdd04;
+  background: #35322f;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #fbdd04;
+  background: #2c2b27;
   color: #fff;
 }
 
@@ -163,7 +163,7 @@ body {
 
 .section-heading h2 em {
   font-style: normal;
-  color: #fbdd04;
+  color: #2c2c29;
 }
 
 .section-heading img {
@@ -182,8 +182,8 @@ body {
   display: inline-block;
   font-size: 15px;
   padding: 12px 20px;
-  background-color: #fbdd04;
-  color: #000000;
+  background-color: #3a3a3a;
+  color: #ffffff;
   text-align: center;
   font-weight: 400;
   text-transform: uppercase;
@@ -192,7 +192,7 @@ body {
 
 .main-button a:hover {
   background-color: #000000;
-  color: #fbdd04 
+  color: #ffffff
 }
 
 
@@ -222,15 +222,15 @@ header
 }
 
 .background-header .main-nav .nav li:last-child a:hover {
-  color: #fbdd04!important;
+  color: #35322f!important;
 }
 
 .background-header .main-nav .nav li:hover a {
-  color: #fbdd04!important;
+  color: #35322f!important;
 }
 
 .background-header .nav li a.active {
-  color: #fbdd04!important;
+  color: #35322f!important;
 }
 
 .header-area {
@@ -267,7 +267,7 @@ header
 
 .header-area .main-nav .logo em {
   font-style: normal;
-  color: #fbdd04;
+  color: #35322f;
   font-weight: 900;
 }
 
@@ -314,19 +314,19 @@ header
 }
 
 .header-area .main-nav .nav li:last-child a:hover {
-  color: #fbdd04;
+  color: #35322f;
   opacity: 1;
 }
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #fbdd04!important;
+  color: #35322f!important;
   opacity: 1;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #fbdd04!important;
+  color: #35322f!important;
   opacity: 1;
 }
 
@@ -450,7 +450,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #fbdd04;
+  color: #35322f;
 }
 
 @media (max-width: 1200px) {
@@ -469,7 +469,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #fbdd04!important;
+    color: #35322f!important;
     opacity: 1;
   }
   .header-area {
@@ -506,15 +506,15 @@ header
   }
   .header-area .main-nav .nav li:last-child {
     width: 100%;
-    background-color: #fbdd04;
+    background-color: #35322f;
     color: #fff;
   }
   .header-area .main-nav .nav li:last-child a {
-    background-color: #fbdd04!important;
+    background-color: #35322f!important;
   }
   .header-area .main-nav .nav li:last-child a:hover,
   .header-area .main-nav .nav li:last-child:hover a {
-    background-color: #fbdd04!important;
+    background-color: #35322f!important;
     color: #fff!important;
   }
   .header-area.header-sticky .nav {
@@ -540,7 +540,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #fbdd04!important;
+    color: #35322f!important;
   }
   .header-area .main-nav .nav li.submenu ul {
     position: relative;
@@ -644,13 +644,13 @@ banner
 
 .main-banner .caption h2 em {
   font-style: normal;
-  color: #fbdd04;
+  color: #35322f;
   font-weight: 900;
 }
 
 .main-banner .caption h6 em {
 	font-style: normal;
-	color: #fbdd04;
+	color: #35322f;
 }
 
 /*
@@ -695,7 +695,7 @@ features
   margin-top: 7px;
   display: inline-block;
   font-size: 13px;
-  color: #fbdd04;
+  color: #35322f;
   font-weight: 500;
 }
 
@@ -738,7 +738,7 @@ subscribe
 
 .cta-content h2 em {
   font-style: normal;
-  color: #fbdd04;
+  color: #35322f;
 }
 
 .cta-content p {
@@ -796,7 +796,7 @@ Our Classes
   font-size: 19px;
   letter-spacing: 0.5px;
   font-weight: 600;
-  background-color: #fbdd04;
+  background-color: #35322f;
 }
 #tabs .main-rounded-button a:hover {
   background-color: #000000;
@@ -812,7 +812,7 @@ Our Classes
   border-bottom: none;
 }
 #tabs ul .ui-tabs-active a {
-  color: #fbdd04;
+  color: #35322f;
 }
 #tabs ul .ui-tabs-active span {
   color: #1e1e1e;
@@ -957,7 +957,7 @@ schedule
 }
 #schedule .filters ul li.active,
 #schedule .filters ul li:hover {
-  color: #fbdd04;
+  color: #35322f;
 }
 #schedule .filters-content {
   margin-top: 50px;
@@ -998,7 +998,7 @@ height: 593px;
 #trainers .trainer-item span {
   font-size: 13px;
   font-weight: 500;
-  color: #fbdd04;
+  color: #35322f;
   display: inline-block;
   margin-top: 25px;
   margin-bottom: 10px;
@@ -1007,7 +1007,7 @@ height: 593px;
 #trainers .trainer-item h4 {
   font-size: 19px;
   font-weight: 600;
-  color: #fbdd04;
+  color: #35322f;
   letter-spacing: 0.5px;
   margin-bottom: 18px;
 }
@@ -1031,7 +1031,7 @@ height: 593px;
 }
 
 #trainers .trainer-item ul.social-icons li a:hover {
-  color: #fbdd04;
+  color: #35322f;
 }
 
 
@@ -1101,7 +1101,7 @@ contact
   display: inline-block;
   font-size: 13px;
   padding: 11px 17px;
-  background-color: #fbdd04;
+  background-color: #35322f;
   color: #fff;
   text-align: center;
   font-weight: 400;
@@ -1136,11 +1136,11 @@ footer p {
 
 footer p a {
   cursor: pointer;
-  color: #fbdd04;
+  color: #35322f;
 }
 
 footer p a:hover {
-  color: #fbdd04;
+  color: #35322f;
 }
 
 
@@ -1336,7 +1336,7 @@ Roadmaps
   font-size: 19px;
   letter-spacing: 0.5px;
   font-weight: 600;
-  background-color: #fbdd04;
+  background-color: #35322f;
 }
 #tabs .main-rounded-button a:hover {
   background-color: #000000;
@@ -1352,7 +1352,7 @@ Roadmaps
   border-bottom: none;
 }
 #tabs ul .ui-tabs-active a {
-  color: #fbdd04;
+  color: #35322f;
 }
 #tabs ul .ui-tabs-active span {
   color: #1e1e1e;
